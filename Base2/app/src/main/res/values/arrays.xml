@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="variable_array">
+        <item>Общая информация</item>
+        <item>Синтаксис</item>
+        <item>Литералы</item>
+    </string-array>
+    <string-array name="dataTypes_array">
+        <item>Bool</item>
+        <item>int</item>
+        <item>long</item>
+        <item>float</item>
+        <item>double</item>
+    </string-array>
+    <string-array name="comparisons_array">
+        <item>Равенство</item>
+        <item>Неравенство</item>
+        <item>Больше</item>
+        <item>Меньше</item>
+    </string-array>
+
+</resources>
